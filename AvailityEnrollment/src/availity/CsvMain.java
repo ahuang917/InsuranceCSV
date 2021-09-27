@@ -19,7 +19,7 @@ import java.util.HashSet;
  *  @author Alan
  *  @version Sep 26, 2021
  */
-public class AvailityCsvMain
+public class CsvMain
 {
 
     /**
